@@ -20,10 +20,8 @@ import { projects } from "./data/projects";
           <div class="text-left">
             <h1 class="text-2xl font-semibold mb-2">Eduarda Lourenço</h1>
 
-            <p class="text-sm text-white/70 mb-5 max-w-md">
-              Desenvolvedora front-end com mais de 4 anos de experiência,
-              graduada em Sistemas de Informação. Foco em interfaces modernas,
-              acessibilidade e experiência do usuário.
+            <p class="text-sm text-white/70 mb-5 max-w-xl">
+              Desenvolvedora front-end com mais de 4 anos de experiência, graduada em Sistemas de Informação. Foco em interfaces modernas, acessibilidade e experiência do usuário.
             </p>
 
             <div class="flex flex-wrap gap-3">
