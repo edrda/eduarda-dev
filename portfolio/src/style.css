@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+:root {
+  --terracotta: #e95622;
+}
+
+body {
+  background: linear-gradient(
+    169.17deg,
+    #1E1E1E 10%,
+    #633225 40%,
+    #CA4E22 100%
+  );
+  color: white;
+}
