@@ -27,6 +27,15 @@ export const projects = [
     live: "https://inclucity.vercel.app/"
   },
   {
+    title: "Presente de dia das mães",
+    description:
+      "Uma lembrança digital personalizada e responsiva para o dia das mães, que simula a interface do app do Spotify, com mensagens, músicae fotos, criada como um projeto pessoal para minha mãe.",
+    image: "/projetos/spotify.png",
+    tech: ["HTML5", "CSS3", "JavaScript (ES6)", "Design Responsivo"],
+    github: "https://github.com/edrda/spotify-gift",
+    live: "https://dia-das-maes-2026.vercel.app"
+  },
+  {
     title: "WDI",
     description:
       "Landing page para minha agência de freelance, focada em conversão e experiência do usuário.",
